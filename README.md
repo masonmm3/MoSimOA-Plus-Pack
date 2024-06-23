@@ -3,8 +3,9 @@
 Featuring 3 Open alliance robots from the 2024 season,
   4481,
   3847,
-  1102,
- The plus is for,
+  1102.
+  
+As well as a non OA team,
   6366,
   96366(offseason concept)
 
