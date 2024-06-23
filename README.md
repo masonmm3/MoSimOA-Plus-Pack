@@ -1,6 +1,6 @@
 # MoSImOA-Pack
 
-Featuring 3 Open alliance robots,
+Featuring 3 Open alliance robots from 2024,
   4481,
   3847,
   1102,
