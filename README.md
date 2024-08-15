@@ -5,9 +5,10 @@ Featuring 3 Open alliance robots from the 2024 season,
   3847,
   1102.
   
-As well as a non OA team,
+As well as two non OA team,
   6366,
   96366(offseason concept)
+  343
 
   There is keyboard support.
 
